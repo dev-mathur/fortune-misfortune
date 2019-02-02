@@ -1,0 +1,11 @@
+{
+  "name": "fortune-misfortune",
+  "version": "1.0.0",
+  "description": "A simple library that will tell you your fortunes",
+  "main": "index.js",
+  "scripts": {
+    "test": "fortune();"
+  },
+  "author": "Dev Ashish Mathur",
+  "license": "ISC"
+}
